@@ -1,6 +1,6 @@
 <?php
 
-namespace voicenet/PhpStatementsFixers;
+namespace voicenet\PhpStatementsFixers;
 
 use PhpCsFixer\AbstractFunctionReferenceFixer;
 use PhpCsFixer\FixerDefinition\CodeSample;
